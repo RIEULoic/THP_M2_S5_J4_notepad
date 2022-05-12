@@ -13,4 +13,4 @@ La page se rechargera si vous effectuez des modifications.
 
 -----------------
 *Ce projet est issu de [ce tutoriel](https://www.youtube.com/watch?v=ulOKYl5sHGk&t=1932s)*
-*Avec l'aide d'Alex Beaumier*
+Avec l'aide d'Alex Beaumier
